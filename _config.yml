@@ -10,6 +10,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Chuminjae
+  disqus_shortname: https-chuminjae-github-io
   tagline: Developer Student
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
