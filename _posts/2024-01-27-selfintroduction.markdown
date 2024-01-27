@@ -15,11 +15,17 @@ I am Chu minjae. 영어 이름은 Lucas Chu. 중국어 이름은 秋玟在.
 
 좋아하는 브랜드는 자주 바뀌기는 하지만 요즘에는 메종 미하라, 트래블, 엑스톤즈, 피오갓, 나이키이다.
 
-요즘 자주 입는 바지. 2023년도 겨울방학에 샀는데 되게 잘입고 다닌다. ![pants](https://github.com/chuminjae/chuminjae.github.io/assets/77494039/488d1446-65e1-48dc-bc29-74f0fe75b21d){:width="125" height = "150"}
+요즘 자주 입는 바지. 2023년도 겨울방학에 샀는데 되게 잘입고 다닌다. 와이드한데 편하고 어디다가 입어도 다 괜찮아서 거의 맨날 입었다.
 
-바지랑 자주 입는 슬리브. 이것도 겨울방학에 샀는데 몸에 안붙고 되게 널널해서 좋아한다. ![sleeve](https://github.com/chuminjae/chuminjae.github.io/assets/77494039/44e0242b-1418-4719-be27-d1fa54b21a1d){:width="125" height = "150"}
+![pants](https://github.com/chuminjae/chuminjae.github.io/assets/77494039/488d1446-65e1-48dc-bc29-74f0fe75b21d){:width="125" height = "150"}
 
-2024 봄 학기때 많이 입었던 맨투맨. 이건 도영이꺼 자주 입었는데 맘에 들었다. ![clothe](https://github.com/chuminjae/chuminjae.github.io/assets/77494039/e07ec134-707a-467a-a62a-1119eff9ef5e){:width="142" height = "142"}
+바지랑 자주 입는 슬리브. 이것도 겨울방학에 샀는데 몸에 안붙고 되게 널널해서 좋아한다. 트래블 워크샵 롱슬리브. 색깔은 스카이블루. 위에 바지랑 자주 입는다.
+
+![sleeve](https://github.com/chuminjae/chuminjae.github.io/assets/77494039/44e0242b-1418-4719-be27-d1fa54b21a1d){:width="125" height = "150"}
+
+2024 봄 학기때 많이 입었던 맨투맨. 이건 도영이꺼 자주 입었는데 맘에 들었다. 곰돌이가 귀엽기도 하고 약간 모르겠다. 어쨋든 마음에 들었다.
+
+![clothe](https://github.com/chuminjae/chuminjae.github.io/assets/77494039/e07ec134-707a-467a-a62a-1119eff9ef5e){:width="142" height = "142"}
 
 요즘 꽂힌 노래는 Future의 Superman이다. 내 컴퓨터 배경화면은 기본 배경화면이다. 요즘 준비하는 것은 동아리 준비, 대학 준비, AP준비, 코딩 대회 준비, 코딩 대회 운영 준비, 교육자료 제공 준비등등이다. 준비하는것이 많다. 아주 좋구만. 이 블로그 만드는데 굉장히 오래 걸렸다. 솔직히 조금 힘들긴했지만 worth it하겠지
 나는 만방국제학교에 다닌다. 하얼빈에 있다. 하얼빈은 아주 추운곳이다. 나는 만방에서 7학년떄부터 있었는데 나는 무려 12학년. 후훗. 추구하는 것은 착하고 성경적인 가치이다. 나는 크리스천이다.
@@ -29,6 +35,8 @@ I am Chu minjae. 영어 이름은 Lucas Chu. 중국어 이름은 秋玟在.
 이것은 나의 민증사진. 교정기끼기 전이다. ![old](https://github.com/chuminjae/chuminjae.github.io/assets/77494039/744d610b-eec0-410d-bded-611e0bb8750f){:width="41" height = "53"}
 
 인생목표는 돈 많이 벌어서 남들 도우면서 살고 차별 안하고 선하게 계획대로 살기!
+
+이상형은 없고 그냥 예쁜 사람이 내 이상형이다. 성격 같은거는 착하고 약간 이상했으면 좋겠다.
 
 [instagram]: https://www.instagram.com/c_vgvrthrg/
 [water_bottle]: https://item.gmarket.co.kr/Item?goodscode=3365030007
